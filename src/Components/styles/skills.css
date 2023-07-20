@@ -1,0 +1,15 @@
+.skills{
+    color : white;
+    width : 80%;
+    margin : 0 auto;
+}
+
+
+.skill-name{
+    display : flex;
+    padding-bottom : 3rem;
+}
+
+.stars p{
+    color : gold;
+}

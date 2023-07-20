@@ -1,0 +1,33 @@
+.sideNav{
+    position : fixed;
+    top : 40%;
+    width : 10px;
+    height : 7cm;
+    background-color: orange;
+    color : black;
+    padding : 4px;
+    letter-spacing: 5px;
+    border-radius: 0 10px 10px 0;
+    cursor: default;
+    border : 2px solid white;
+    overflow-y: hidden;;
+
+}
+
+.sideNav p{
+    text-align:center;
+}
+
+.sideNav:hover{
+
+    width : 5cm;
+    background-color: orange;
+    color : black;
+    transition: 0.4s;
+}
+
+.sideNav p:hover{
+    font-weight: bold;
+    color: black;
+    transition-duration: 0.3s;
+}

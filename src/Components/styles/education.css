@@ -1,0 +1,17 @@
+.curricular_card{
+    width : 70%;
+    border-radius: 1rem;
+    flex: 1 0 30%;
+    overflow-y: scroll;
+}
+
+.curricular_container ::-webkit-scrollbar {
+    display: none;
+}
+
+.curricular_container{
+    margin-top : 2rem;
+    display : flex;
+    flex-wrap: wrap;
+
+}

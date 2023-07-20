@@ -1,0 +1,32 @@
+.project_card{
+    width : 70%;
+    height : 5cm;
+    border-radius: 1rem;
+    margin : 2rem;
+    padding : 1rem;
+    flex: 1 0 30%;
+    overflow-y: scroll;
+    border : 2px solid orange;
+}
+
+.project_container ::-webkit-scrollbar {
+    display: none;
+}
+
+.project_container{
+    display : flex;
+    flex-wrap: wrap;
+
+}
+    
+/* .project_card:hover{
+    color : transparent;
+    background-color: white;
+    color : black;
+} */
+
+  
+
+.project_card h2{
+    color : orange;
+   }

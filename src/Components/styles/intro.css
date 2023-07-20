@@ -1,0 +1,44 @@
+h1{
+    color : transparent !important;
+    -webkit-text-stroke: 1px orange;
+    font-size: 3rem;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    padding-bottom : 2rem;
+    padding-top : 2rem;
+    margin : 0 auto;
+
+}
+
+/* p{
+    margin-left : 2rem;
+    color : white;
+    text-align: justify;
+    line-height: 1cm;
+} */
+
+p {
+    color : white;
+    justify-content: center;
+    text-align: justify;
+    line-height : 1cm;
+}
+
+
+h1:hover {
+background-color: orange;  
+}
+
+.paragraphs{
+    margin : 0 auto;
+    width : 90%;
+    padding-bottom : 3rem;
+}
+
+button:hover{
+    border : 2px solid white;
+    color : white;
+}

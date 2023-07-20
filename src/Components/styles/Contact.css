@@ -1,0 +1,17 @@
+.paragraphs_contact {
+    background-color: white;
+    width : 80%;
+    padding : 10px;
+    margin : 0 auto;
+    border-radius : 2rem;
+    height : 45vh;
+}
+
+button{
+    width : 40%;
+    height : 3rem;
+    background-color : orange;
+    border-radius: 1rem;
+    color : black;
+    border : none;
+} 

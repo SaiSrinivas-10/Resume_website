@@ -1,0 +1,18 @@
+.second_nav{
+    position : fixed;
+    top : 40%;
+    width : 0.5cm;
+    background-color: orange;
+    color : black;
+    border-radius : 1rem;
+    letter-spacing: 5px;
+}
+
+.second_nav:hover{
+    background-color: orange;
+    color : black;
+    width : 5cm;
+    border-radius : 1rem;
+    letter-spacing: 5px;
+    height: auto;
+}

@@ -1,0 +1,45 @@
+.training_card{
+    width : 70%;
+    height : 6cm;
+    border-radius: 1rem;
+    margin : 2rem;
+    padding : 1rem;
+    flex: 1 0 30%;
+    overflow-y: scroll;
+    border : 2px solid orange;
+}
+
+.training_container ::-webkit-scrollbar {
+    display: none;
+}
+
+.training_container{
+    display : flex;
+    flex-wrap: wrap;
+}
+    
+/* .training_card:hover{
+    color : transparent;
+    background-color: white;
+    color : black;
+} */
+
+  
+
+.training_card h2{
+    color : orange;
+   }
+
+   
+.training_card button{
+    margin-top : 20px;
+    background-color: orange;
+    width : 60%;
+    height : 2.5rem;
+    border-radius: 1rem;
+}
+
+li{
+    margin-top : 30px;
+}
+
