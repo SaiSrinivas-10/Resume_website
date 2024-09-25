@@ -10,7 +10,7 @@ export const Intro = () => {
     return (
         <div className="intro">
             <div className="intro-text">
-                <h1 style = {{marginTop : "20px"}}>000 INTRODUCTION</h1>
+                <h1 style = {{marginTop : "20px"}}>000 INTRO</h1>
                 <div className="paragraphs">
                 <p>Hey there! My name is <strong>Sai Keesari</strong>, and I'm an engineer who is always looking for new challenges and cutting-edge technology to learn about and experiment with. 
                     Welcome to my online portfolio. Development has always sparked my passion, and I'm ecstatic to be pursuing it professionally. 
