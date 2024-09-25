@@ -1,6 +1,6 @@
 import React from "react";
 import './styles/intro.css'
-import pdf from './files/resume.pdf'
+import pdf from './files/Sai Keesari Resume  (3).pdf'
 
 
 
