@@ -14,8 +14,8 @@ export const Education = () => {
                     <h4 style = {{color : "white", textAlign:"left", paddingTop:"1rem"}}>Computer Science</h4>
                     <h4 style = {{color : "orange", textAlign:"left", paddingTop:"2rem" , paddingBottom:"1rem"}}>Academic Coursework : </h4>
                 <p>
-                    <li><strong>Artificial Intelligence and Machine Learning:</strong> Gained hands on experience by building projects using search algorithms and rebuilt the pacman game using the reinforcement learning.</li>        
-                    // <li><strong>Data Analysis and Visualization:</strong> Learned about data cleaning, manipulation, and visualization using tools such as R and Python.</li>      
+                    <li><strong>Artificial Intelligence:</strong> Gained hands on experience by building projects using various search algorithms and rebuilt the PACMAN game using the reinforcement learning.</li>        
+                    <li><strong>Analysis of Algorithms</strong> Explored techniques for optimizing code by studying and applying different algorithms, focusing on their efficiency and effectiveness in solving computational problems.</li>      
                     // <li><strong>Computer Programming and Data Structures:</strong> Covered programming concepts in C, C++, Java and data structures such as arrays, linked lists, stacks, and queues.</li>
                     // <li> <strong>Design and Analysis of Algorithms:</strong> Learned about various algorithmic techniques and their applications in problem-solving.</li>
                     // <li> <strong>Web Technologies:</strong> Gained proficiency in web development using HTML, CSS, JavaScript, and PHP.</li>
