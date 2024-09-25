@@ -11,6 +11,8 @@ export const Projects = () => {
                 <div className = "project_card">
                     <h2>Skill Fetch</h2>
                     <a href = "https://github.com/SaiSrinivas-10/Projects/tree/main/LinkedIn_Webscraper"><FaGithub style = {{color : "orange" , height : "30px", marginTop : "20px"}}/></a>
+                        <a href = "https://www.linkedin.com/posts/sai-srinivas-keesari_snippets-activity-7019808586209906688-9Pnm?utm_source=share&utm_medium=member_desktop"><FaLinkedin style = {{color : "orange" , height : "30px", marginTop : "20px"}}/></a>
+
                     <p style = {{textAlign : 'justify'}}>
                         <li> Using Python Selenium to scrape LinkedIn pages and extract the skills required for specific job positions. The extracted data was then analyzed and visualized to identify the top skills required for the job. </li>
                         <li>Additionally, ChatGPT API was used to fetch the top 5 websites where the users can learn the required skills for free. </li>
